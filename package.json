@@ -1,7 +1,7 @@
 {
   "name": "newbound-warm-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A highly legible, medium contrast, warm syntax theme for Atom",
   "keywords": [
     "syntax",
