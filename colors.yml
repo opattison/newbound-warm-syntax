@@ -1,0 +1,21 @@
+# want to port this elsewhere?
+# to generate themes for other editors, use this YAML file with
+# [base16-builder](https://github.com/chriskempson/base16-builder)
+scheme: "newbound-warm"
+author: "Oliver Pattison (https://olivermak.es)"
+base00: "2d2d25" # black
+base01: "47463f"
+base02: "616159"
+base03: "7b7b74"
+base04: "96968e"
+base05: "b0b0a8"
+base06: "cbcac3"
+base07: "dddcd5" # white
+base08: "9c322a" # red
+base09: "995a35" # orange
+base0A: "8d7229" # gold
+base0B: "2d8650" # green
+base0C: "427c80" # bluegreen
+base0D: "3676a1" # blue
+base0E: "4b5f9b" # violet
+base0F: "734d80" # purple

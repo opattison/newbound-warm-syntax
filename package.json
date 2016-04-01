@@ -1,0 +1,18 @@
+{
+  "name": "newbound-warm-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A highly legible, medium contrast, warm syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "markdown",
+    "warm"
+  ],
+  "repository": "https://github.com/opattison/newbound-warm-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
