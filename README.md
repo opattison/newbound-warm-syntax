@@ -4,6 +4,10 @@
 
 See also: [newbound light](https://atom.io/themes/newbound-light-syntax) and [newbound dark](https://atom.io/themes/newbound-dark-syntax).
 
+![16 swatches of each color](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-swatches.png)
+
+![sample of newbound colors](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-sample.png)
+
 ## Features
 
 - Medium contrast without any dissonant color pairings
@@ -34,6 +38,26 @@ General support for other languages is intended but not guaranteed.
 
 Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark UI](https://atom.io/themes/one-dark-ui).
 
+### HTML (and Liquid)
+
+![HTML and Liquid text sample](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-html.png)
+
+### Markdown
+
+![Markdown text sample](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-md.png)
+
+### JavaScript
+
+![JavaScript code sample](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-js.png)
+
+### SCSS (or CSS, Sass, or Less)
+
+![SCSS text sample](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-scss.png)
+
+### Ruby
+
+![Ruby code sample](http://opensource.olivermak.es/images/2016-03-31-newbound-warm-ruby.png)
+
 ## Install
 
 This theme can be installed with the Atom package manager in the app or on the command line.
@@ -50,7 +74,7 @@ After it is installed, it can be activated by going to the **Settings (Preferenc
 
 ### Not using Atom?
 
-Use the `colors.yml` file with hex color values with [Base16 Builder](https://github.com/chriskempson/base16-builder) to generate a theme for a different text editor. This theme was created by hand, so results may vary from this implementation.
+Use the `colors.yml` file with [Base16 Builder](https://github.com/chriskempson/base16-builder) to generate a theme for a different text editor. This theme was created by hand, so results may vary from this implementation.
 
 ---
 
